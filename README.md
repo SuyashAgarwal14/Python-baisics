@@ -1,5 +1,5 @@
 ## Description
-This repository is dedicated to Python basics. It contains various scripts, notebooks, and modules that demonstrate fundamental Python concepts.
+This repository is dedicated to Python basics. It contains various modules that demonstrate fundamental Python concepts that would be very helpful for beginner as it did for me.
 
 ## Table of Contents
 1. Installation
@@ -11,7 +11,7 @@ This repository is dedicated to Python basics. It contains various scripts, note
 To run the Python scripts in this repository, you need to have Python installed on your system. If you don't have Python installed, you can download it from the official website: https://www.python.org/downloads/
 
 ## Usage
-Each script or notebook in this repository demonstrates a specific Python concept. Simply navigate to the script or notebook you're interested in and run it using your Python interpreter or Jupyter notebook.
+Each script or notebook in this repository demonstrates a specific Python concept. Simply navigate to the script you're interested in and run it using your Python interpreter or Jupyter notebook.
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before making any changes.
